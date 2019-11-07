@@ -9,3 +9,12 @@ tags
 tmp/**/*
 !tmp/cache/.keep
 zeus.json
+# Apple Dev Center
+*.mobileprovision
+*.cer
+*.certSigningRequest
+*.p12
+*.dSYM.zip
+*.ipa
+# Fastlane
+fastlane/report.xml

@@ -50,7 +50,8 @@ Plugin 'jelera/vim-javascript-syntax'
 Plugin 'jsx/jsx.vim'
 Plugin 'terryma/vim-expand-region'
 Plugin 'avdgaag/vim-phoenix'
-
+Plugin 'morhetz/gruvbox'
+Plugin 'mattn/emmet-vim'
 
 call vundle#end()            " required
 filetype plugin indent on    " required
